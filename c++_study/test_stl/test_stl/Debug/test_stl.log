@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\kenji\source\repos\test_stl\test_stl\源.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\kenji\source\repos\test_stl\test_stl\源.cpp(46): warning C4018: “<”: 有符号/无符号不匹配
+  test_stl.vcxproj -> C:\Users\kenji\source\repos\test_stl\Debug\test_stl.exe
