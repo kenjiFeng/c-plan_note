@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 ptf("hello")
+=======
+printf("hello")
+assadasdasdasdasdasdads
+
+asdasd
+asd
+>>>>>>> dev
