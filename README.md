@@ -1,1 +1,1 @@
-# c-plan_note
+# cpp-plan_note
